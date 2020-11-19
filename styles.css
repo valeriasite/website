@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #a16464;
+  --primary: #8064a1;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -2491,7 +2491,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #7e0b0b;
+  background-color: #960d0d;
   border-color: #7e0b0b;
 }
 .btn-primary:hover {
@@ -7641,6 +7641,7 @@ button.bg-black:focus {
   margin-bottom: 0 !important;
 }
 
+
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
@@ -7662,12 +7663,12 @@ button.bg-black:focus {
 
 .mb-1,
 .my-1 {
-  margin-bottom: 0.25rem !important;
+  margin-top: 10rem !important;
 }
 
 .ml-1,
 .mx-1 {
-  margin-left: 0.25rem !important;
+  margin-left: 0rem !important;
 }
 
 .m-2 {
@@ -10228,7 +10229,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 85%, #000000 100%), url("img/4.jpeg");
+  background: linear-gradient(to bottom, rgba(46, 44, 44, 0.507) 0%, rgba(0, 0, 0, 0.685) 85%, #000000 100%), url("img/4.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10308,7 +10309,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("img/12.jpeg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("img/12.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
